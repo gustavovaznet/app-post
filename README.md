@@ -1,2 +1,1 @@
-# app-post
-Posts App
+# Posts App
